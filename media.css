@@ -1,0 +1,26 @@
+    @media (min-width:540px) and (max-width:760px) {
+        .search {
+            margin-top: 18px;
+        }
+        .footer-1>p {
+            text-align: center;
+        }
+        .footer-2>p {
+            text-align: center;
+        }
+    }
+    
+    @media (min-width: 300px) and (max-width: 540px) {
+        .profile-name>p {
+            text-align: right;
+        }
+        .search {
+            margin-top: 18px;
+        }
+        .footer-1>p {
+            text-align: center;
+        }
+        .footer-2>p {
+            text-align: center;
+        }
+    }
